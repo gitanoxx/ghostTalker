@@ -9,3 +9,11 @@ Al crear un diccionario aleatorio unico no existen huellas de esto, por consecue
 Igual el archivo desofuscado.py utilizo la funcion exec() asique igual este codigo lo van a detectar.
 
 Espero poder crear algo mas robusto con la misma idea, pero con mas validaciones y ya orientado definitivamente a ser utilizado en pentesting real (En entornos controlados o.O)
+
+Cuando ejecutes el script.py se va a generar un Json, ese json es el idioma donde se va a indicar la letra y al equivalente.
+Ejemplo
+* "a" = "xx#s"
+* "b" = "4Rc/"
+
+y asi consecutivamente.
+
